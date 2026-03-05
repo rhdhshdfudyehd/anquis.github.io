@@ -1,1 +1,1 @@
-# anquis.github.io
+# github.io
